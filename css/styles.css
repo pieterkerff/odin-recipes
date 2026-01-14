@@ -1,0 +1,28 @@
+.card {
+    margin: auto 200px;
+    padding: 20px 200px;
+    text-align: center;
+    border: solid;
+    border-width: 10px;
+    border-radius: 20px;
+}
+
+.ingredients, .steps{
+    list-style-position: inside;
+}
+
+
+.pizza {
+    border-color: orangered;
+    background-color: lightsalmon;
+}
+
+.pasta{
+    border-color: brown;
+    background-color: rgb(179, 94, 45);
+}
+
+.meatballs{
+    background-color: lightgreen;
+    border-color: green;
+}
